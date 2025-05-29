@@ -1,0 +1,8 @@
+this is for database
+http://127.0.0.1:8000/runDBIMAction
+
+
+http://127.0.0.1/phpmyadmin/index.php?route=/server/privileges&username=root&hostname=localhost&dbname=&tablename=&routinename=
+
+this is  for website
+http://127.0.0.1:8000/index.html
